@@ -7,4 +7,9 @@ can be used to perform simple day to day calculations.**
 
 ##Screenshots-
 
-|**Screenshot 1**|
+|**Screenshot 1**  | **Screenshot 2**|
+| ------------- | ------------- |
+| ![Annotation 2020-07-10 114608](https://user-images.githubusercontent.com/65030418/87122784-2ede4d80-c2a3-11ea-8761-50e6720eb5a8.png) | ![Annotation 2020-07-10 1147132](https://user-images.githubusercontent.com/65030418/87122799-34d42e80-c2a3-11ea-932d-cb2bda29d6dc.png) |
+
+
+
