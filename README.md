@@ -5,7 +5,7 @@ can be used to perform simple day to day calculations.**
 
 **It has a clear display and easy to read along with intuitive and attractive design that facellitates calculations daily.**
 
-##Screenshots-
+## Screenshots-
 
 |**Screenshot 1**  | **Screenshot 2**|
 | ------------- | ------------- |
