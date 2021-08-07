@@ -1,9 +1,9 @@
 # Calculator
 
-**Developed a simple and easy to use android based calculator application. This application is a essential tool for our smartphones and 
-can be used to perform simple day to day calculations.** 
+**Developed a simple and easy to use android based calculator application. This application is an essential tool for our smartphones and 
+can be used to perform simple day-to-day calculations.** 
 
-**It has a clear display and easy to read along with intuitive and attractive design that facellitates calculations daily.**
+**It has a clear display and is easy to read along with intuitive and attractive design that facilitates calculations daily.**
 
 ## Screenshots-
 
